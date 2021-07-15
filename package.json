@@ -1,0 +1,17 @@
+{
+  "name": "yahoo-creator",
+  "version": "1.0.0",
+  "description": "Yahoo Creator by GygDoggy",
+  "main": "yahoo.js",
+  "scripts": {
+    "test": "node yahoo.js"
+  },
+  "author": "GygDoggy",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "node-random-name": "^1.0.1",
+    "puppeteer": "^10.1.0",
+    "random-useragent": "^0.5.0"
+  }
+}
