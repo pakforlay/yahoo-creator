@@ -8,7 +8,7 @@
  [Saweria](https://saweria.co/pakforlay)
  
 </details>
-
+</p>
 
 
 ## Getting Started
