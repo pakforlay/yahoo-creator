@@ -1,7 +1,9 @@
 # yahoo-creator
 
-yahoo.js adalah file input data manual di command line.
-yahoo_auto.js adalah file input data automatis namun nama yg di input nama luar.
+
+# yahoo creator by GygDoggy
+- yahoo.js adalah file input data manual di command line.
+- yahoo_auto.js adalah file input data automatis namun nama yg di input nama luar.
 
 kekurangan script
 - tidak save file.txt
